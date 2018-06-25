@@ -12,14 +12,7 @@
     },
     "keywords": [
         "react-native",
-        "system",
-        "setting",
-        "volume",
-        "wifi",
-        "brightness",
-        "location",
-        "bluetooth",
-        "airplane"
+        "volume"
     ],
     "author": {
         "name": "Ninty",
