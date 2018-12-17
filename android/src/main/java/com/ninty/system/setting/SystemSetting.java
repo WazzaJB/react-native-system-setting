@@ -123,7 +123,6 @@ public class SystemSetting extends ReactContextBaseJavaModule implements Lifecyc
         }
     }
 
-    @Override
     public void onNewIntent(Intent intent) {
 
     }
